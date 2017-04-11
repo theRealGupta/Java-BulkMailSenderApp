@@ -16,18 +16,18 @@ public static void main(String[] args) {
 	
 
 	String message = "Hi,"
-			+ "\n \n I am looking for the job change as a iOS developer. I got you your email from Linkedin. "
-			+ "\n I have experienced in iOS App development using Objective C And Swift. "
+			+ "\n \n type your mail here "
+			+ "\n this is 2nd line "
 			+ "\n \n Thank And Regards"
 			+ "\n Anup Gupta "
 			+ "\n 8604675834";
 //	String message = "Hi,";
 	
-	String subject = " iOS Developer (Objective C / Swift) 1.5 year experience + 6 month Training in iOS";
+	String subject = " Subject Line ";
 	
 	
-	String filePath = "E:\\AnupGupta(iOS with ObjectiveC _ Swift).pdf";
-	String fileName = "AnupGupta(iOS with ObjectiveC _ Swift).pdf";
+	String filePath = "E:\\File path if any";
+	String fileName = "file name ";
 	
 	
 	
