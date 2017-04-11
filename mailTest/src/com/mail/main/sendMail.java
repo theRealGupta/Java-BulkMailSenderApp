@@ -10,8 +10,8 @@ public static void main(String[] args) {
 	
 	
 	String recipients[] = {
-			"radhikamallarh@gmail.com",
-			"hrwebperfection@gmail.com"  
+			"abcd@gmail.com",
+			"xyz@gmail.com"  
 			};
 	
 
